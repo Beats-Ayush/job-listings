@@ -52,3 +52,4 @@ Learnt some advanced React concepts like global state management.
 ## Author
 
 - Frontend Mentor - [@Beats-Ayush](https://www.frontendmentor.io/profile/Beats-Ayush)
+- Github - [Beats-Ayush](https://github.com/Beats-Ayush)
